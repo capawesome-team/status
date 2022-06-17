@@ -22,9 +22,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://capawesome.io/assets/images/capawesome-logo.svg
+  name: Capawesome
   navbar:
+    - title: Website
+      href: https://capawesome.io
     - title: Status
       href: /status
     - title: GitHub
