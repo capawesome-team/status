@@ -11,6 +11,8 @@ sites:
       - 404
   - name: nfc-demo.capawesome.io
     url: https://nfc-demo.capawesome.io
+  - name: umami.capawesome.io
+    url: https://umami.capawesome.io
 
 assignees:
   - robingenz
