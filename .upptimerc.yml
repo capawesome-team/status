@@ -23,6 +23,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://capawesome.io/assets/images/capawesome-logo.svg
+  faviconSvg: https://capawesome.io/assets/images/capawesome-logo.svg
   name: Capawesome
   navbar:
     - title: Website
