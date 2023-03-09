@@ -22,18 +22,20 @@
     "url": "https://api.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.capawesome.io.ico",
     "slug": "api-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 339,
-    "timeWeek": 382,
-    "timeMonth": 415,
+    "timeDay": 327,
+    "timeWeek": 372,
+    "timeMonth": 411,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 0
+    }
   },
   {
     "name": "nfc-demo.capawesome.io",
