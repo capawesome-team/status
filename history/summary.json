@@ -22,19 +22,19 @@
     "url": "https://api.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.capawesome.io.ico",
     "slug": "api-capawesome-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 399,
-    "timeDay": 327,
-    "timeWeek": 372,
-    "timeMonth": 411,
+    "timeDay": 345,
+    "timeWeek": 374,
+    "timeMonth": 410,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-03-09": 0
+      "2023-03-09": 78
     }
   },
   {
