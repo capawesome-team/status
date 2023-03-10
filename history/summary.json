@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 949,
-    "timeWeek": 1004,
-    "timeMonth": 1124,
-    "timeYear": 1110,
+    "time": 1108,
+    "timeDay": 669,
+    "timeWeek": 959,
+    "timeMonth": 1102,
+    "timeYear": 1108,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 399,
-    "timeDay": 345,
-    "timeWeek": 374,
-    "timeMonth": 410,
+    "timeDay": 344,
+    "timeWeek": 375,
+    "timeMonth": 402,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2023-03-09": 78
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 322,
-    "timeWeek": 395,
-    "timeMonth": 427,
+    "timeDay": 503,
+    "timeWeek": 426,
+    "timeMonth": 426,
     "timeYear": 400,
     "dailyMinutesDown": {}
   },
@@ -62,17 +62,15 @@
     "slug": "umami-capawesome-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 439,
-    "timeWeek": 404,
-    "timeMonth": 438,
+    "timeDay": 472,
+    "timeWeek": 421,
+    "timeMonth": 434,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2023-03-09": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
