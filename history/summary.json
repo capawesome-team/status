@@ -6,18 +6,16 @@
     "slug": "capawesome-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 548,
-    "timeWeek": 593,
+    "time": 1051,
+    "timeDay": 600,
+    "timeWeek": 581,
     "timeMonth": 648,
-    "timeYear": 1053,
-    "dailyMinutesDown": {
-      "2023-04-12": 8
-    }
+    "timeYear": 1051,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.capawesome.io",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 401,
-    "timeDay": 331,
-    "timeWeek": 431,
-    "timeMonth": 425,
+    "timeDay": 445,
+    "timeWeek": 434,
+    "timeMonth": 424,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2023-03-09": 78
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 354,
-    "timeWeek": 379,
-    "timeMonth": 405,
-    "timeYear": 400,
+    "time": 401,
+    "timeDay": 538,
+    "timeWeek": 389,
+    "timeMonth": 408,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 507,
-    "timeWeek": 438,
-    "timeMonth": 427,
+    "timeDay": 456,
+    "timeWeek": 434,
+    "timeMonth": 426,
     "timeYear": 410,
     "dailyMinutesDown": {}
   }
