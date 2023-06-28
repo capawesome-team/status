@@ -4,19 +4,19 @@
     "url": "https://capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/capawesome.io.ico",
     "slug": "capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 655,
-    "timeWeek": 711,
-    "timeMonth": 700,
-    "timeYear": 979,
+    "time": 986,
+    "timeDay": 598,
+    "timeWeek": 690,
+    "timeMonth": 695,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2023-06-28": 2
+      "2023-06-28": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.capawesome.io.ico",
     "slug": "api-capawesome-io",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 412,
-    "timeDay": 506,
-    "timeWeek": 454,
-    "timeMonth": 437,
-    "timeYear": 414,
+    "timeDay": 496,
+    "timeWeek": 458,
+    "timeMonth": 439,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-06-28": 1,
+      "2023-06-28": 11,
       "2023-03-09": 78
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://nfc-demo.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/nfc-demo.capawesome.io.ico",
     "slug": "nfc-demo-capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 343,
-    "timeWeek": 436,
-    "timeMonth": 458,
-    "timeYear": 416,
+    "timeDay": 341,
+    "timeWeek": 424,
+    "timeMonth": 454,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-06-28": 1
+      "2023-06-28": 10
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://umami.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/umami.capawesome.io.ico",
     "slug": "umami-capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 492,
-    "timeWeek": 471,
-    "timeMonth": 452,
+    "timeDay": 488,
+    "timeWeek": 473,
+    "timeMonth": 453,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2023-06-28": 0
+      "2023-06-28": 10
     }
   }
 ]
