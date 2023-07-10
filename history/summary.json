@@ -4,19 +4,19 @@
     "url": "https://capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/capawesome.io.ico",
     "slug": "capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 976,
-    "timeDay": 719,
-    "timeWeek": 646,
-    "timeMonth": 686,
+    "timeDay": 745,
+    "timeWeek": 662,
+    "timeMonth": 689,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-10": 6
     }
   },
   {
