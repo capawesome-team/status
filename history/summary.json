@@ -6,9 +6,9 @@
     "slug": "capawesome-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 968,
     "timeDay": 695,
@@ -16,7 +16,7 @@
     "timeMonth": 727,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-07-26": 2
+      "2023-07-26": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.capawesome.io.ico",
     "slug": "api-capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 416,
-    "timeDay": 444,
-    "timeWeek": 504,
-    "timeMonth": 472,
+    "timeDay": 393,
+    "timeWeek": 484,
+    "timeMonth": 468,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2023-07-26": 1,
+      "2023-07-26": 5,
       "2023-03-09": 78
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://nfc-demo.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/nfc-demo.capawesome.io.ico",
     "slug": "nfc-demo-capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 445,
-    "timeWeek": 456,
-    "timeMonth": 456,
+    "timeDay": 391,
+    "timeWeek": 441,
+    "timeMonth": 452,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 5
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://umami.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/umami.capawesome.io.ico",
     "slug": "umami-capawesome-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 455,
-    "timeWeek": 455,
-    "timeMonth": 465,
+    "timeDay": 403,
+    "timeWeek": 442,
+    "timeMonth": 461,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 4
     }
   }
 ]
