@@ -4,10 +4,10 @@
     "url": "https://capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/capawesome.io.ico",
     "slug": "capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 968,
@@ -15,25 +15,28 @@
     "timeWeek": 758,
     "timeMonth": 727,
     "timeYear": 947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 2
+    }
   },
   {
     "name": "api.capawesome.io",
     "url": "https://api.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.capawesome.io.ico",
     "slug": "api-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 416,
     "timeDay": 444,
     "timeWeek": 504,
     "timeMonth": 472,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-03-09": 78
     }
   },
@@ -42,10 +45,10 @@
     "url": "https://nfc-demo.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/nfc-demo.capawesome.io.ico",
     "slug": "nfc-demo-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
@@ -53,16 +56,18 @@
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "umami.capawesome.io",
     "url": "https://umami.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/umami.capawesome.io.ico",
     "slug": "umami-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 455,
     "timeMonth": 465,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
