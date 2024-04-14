@@ -22,9 +22,9 @@
     "url": "https://api.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.capawesome.io.ico",
     "slug": "api-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 457,
     "timeMonth": 438,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-14": 0
+    }
   },
   {
     "name": "nfc-demo.capawesome.io",
     "url": "https://nfc-demo.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/nfc-demo.capawesome.io.ico",
     "slug": "nfc-demo-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,6 +54,7 @@
     "timeMonth": 161,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2024-04-14": 0,
       "2024-01-17": 18
     }
   },
@@ -60,17 +63,19 @@
     "url": "https://umami.capawesome.io",
     "icon": "https://icons.duckduckgo.com/ip3/umami.capawesome.io.ico",
     "slug": "umami-capawesome-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
+    "time": 449,
     "timeDay": 423,
     "timeWeek": 446,
     "timeMonth": 443,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-14": 0
+    }
   }
 ]
