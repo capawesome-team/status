@@ -35,7 +35,7 @@ status-website:
     - title: Website
       href: https://capawesome.io
     - title: Status
-      href: /status
+      href: https://status.capawesome.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
