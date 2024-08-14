@@ -24,8 +24,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.capawesome.io
+  # baseUrl: /status
   logoUrl: https://capawesome.io/assets/images/capawesome-logo.svg
   # faviconSvg: https://capawesome.io/assets/images/capawesome-logo.svg
   # name: Capawesome
