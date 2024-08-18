@@ -15,6 +15,10 @@ sites:
     url: https://api.cloud.capawesome.eu
     expectedStatusCodes:
       - 404
+  - name: capawesome.dev
+    url: https://capawesome.dev
+  - name: capaweso.me
+    url: https://capaweso.me
   - name: nfc-demo.capawesome.io
     url: https://nfc-demo.capawesome.io
 
