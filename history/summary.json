@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 128,
-    "timeWeek": 197,
+    "timeWeek": 207,
     "timeMonth": 249,
     "timeYear": 209,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 230,
     "timeDay": 277,
-    "timeWeek": 239,
+    "timeWeek": 255,
     "timeMonth": 220,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 321,
-    "timeWeek": 253,
+    "timeWeek": 266,
     "timeMonth": 283,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -58,19 +58,19 @@
     "url": "https://api.cloud.capawesome.eu",
     "icon": "https://icons.duckduckgo.com/ip3/api.cloud.capawesome.eu.ico",
     "slug": "api-cloud-capawesome-eu",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "89.18%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.51%",
     "time": 1972,
     "timeDay": 3514,
-    "timeWeek": 3046,
+    "timeWeek": 3105,
     "timeMonth": 2156,
     "timeYear": 1972,
     "dailyMinutesDown": {
-      "2024-08-25": 118,
+      "2024-08-25": 107,
       "2024-08-24": 38,
       "2024-08-16": 137
     }
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 199,
-    "timeWeek": 228,
+    "timeWeek": 219,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 278,
     "timeDay": 300,
-    "timeWeek": 278,
+    "timeWeek": 263,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {}
