@@ -98,9 +98,9 @@
     "url": "https://capaweso.me",
     "icon": "https://icons.duckduckgo.com/ip3/capaweso.me.ico",
     "slug": "capaweso-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 284,
     "timeMonth": 337,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   },
   {
     "name": "nfc-demo.capawesome.io",
