@@ -1,7 +1,7 @@
 url: https://api.cloud.capawesome.eu
-status: up
-code: 404
-responseTime: 1541
-lastUpdated: 2025-05-06T23:06:03.643Z
+status: down
+code: 503
+responseTime: 1256
+lastUpdated: 2025-05-07T04:07:51.608Z
 startTime: 2024-07-16T22:02:25.899Z
 generator: Upptime <https://github.com/upptime/upptime>
